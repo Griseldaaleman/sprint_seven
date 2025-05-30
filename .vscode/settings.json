@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Griselda\\Desktop\\sprint_project\\sprint_seven\\vehicles_env\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "VIRTUAL_ENV": "C:\\Users\\Griselda\\Desktop\\sprint_project\\sprint_seven\\vehicles_env",
+    "PATH": "C:\\Users\\Griselda\\Desktop\\sprint_project\\sprint_seven\\vehicles_env\\Scripts;${env:PATH}"
+  }
+}
